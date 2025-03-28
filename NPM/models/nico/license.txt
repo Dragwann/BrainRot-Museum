@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milk Carton
+* source:	https://sketchfab.com/3d-models/milk-carton-fb9e00da31c44bd4ad5e9c574df0503a
+* author:	Tiago Oliveira (https://sketchfab.com/tiago_oliveira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milk Carton" (https://sketchfab.com/3d-models/milk-carton-fb9e00da31c44bd4ad5e9c574df0503a) by Tiago Oliveira (https://sketchfab.com/tiago_oliveira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

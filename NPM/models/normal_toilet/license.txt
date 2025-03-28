@@ -1,0 +1,11 @@
+Model Information:
+* title:	Normal Toilet
+* source:	https://sketchfab.com/3d-models/normal-toilet-f193e15ab10e4863aae0afd5d0cfe97b
+* author:	Mr.Clawinson (https://sketchfab.com/Clawinson090)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Normal Toilet" (https://sketchfab.com/3d-models/normal-toilet-f193e15ab10e4863aae0afd5d0cfe97b) by Mr.Clawinson (https://sketchfab.com/Clawinson090) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

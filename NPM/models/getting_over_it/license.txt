@@ -1,0 +1,11 @@
+Model Information:
+* title:	Getting over it
+* source:	https://sketchfab.com/3d-models/getting-over-it-b1330ff9511f40e5abe2e97cb38e10c6
+* author:	andreas (https://sketchfab.com/andreasable)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Getting over it" (https://sketchfab.com/3d-models/getting-over-it-b1330ff9511f40e5abe2e97cb38e10c6) by andreas (https://sketchfab.com/andreasable) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

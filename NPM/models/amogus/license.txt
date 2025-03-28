@@ -1,0 +1,11 @@
+Model Information:
+* title:	amogus
+* source:	https://sketchfab.com/3d-models/amogus-d595bffbc7984c348eeb16245bc8c882
+* author:	axaloty.gamer (https://sketchfab.com/loty_3dmodels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "amogus" (https://sketchfab.com/3d-models/amogus-d595bffbc7984c348eeb16245bc8c882) by axaloty.gamer (https://sketchfab.com/loty_3dmodels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

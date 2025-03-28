@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goat sim brown goat
+* source:	https://sketchfab.com/3d-models/goat-sim-brown-goat-a116571cddad4b0d97062f107ee833c7
+* author:	ROAD Software (https://sketchfab.com/Redwthr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goat sim brown goat" (https://sketchfab.com/3d-models/goat-sim-brown-goat-a116571cddad4b0d97062f107ee833c7) by ROAD Software (https://sketchfab.com/Redwthr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
