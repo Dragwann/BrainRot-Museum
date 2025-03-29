@@ -1,18 +1,28 @@
 # BrainRot Museum
-Bienvenue sur le musée interactif du Brainrot !
 
-Pour une meilleure expérience, merci de suivre les étapes ci-dessous :
+Une expérience immersive en 3D avec Three.js où les memes prennent vie à travers des salles thématiques délirantes.
 
-Installation
-nod : Installez cette dépendance pour démarrer.
+## 🚀 Installation et lancement
+Intaller Node
 
-Three : Intégrez la bibliothèque Three.js pour le rendu 3D.
+Dans le cmd : 
+npm i three (moteur 3D utilisé.)
+npm i vite (localhost obligatoire pour lancer le jeu)
+npm i lil-gui
 
-GUI : Ajoutez l'interface graphique nécessaire.
 
-VITE : Utilisez VITE pour un environnement de développement rapide.
+## 🎮 Contrôles
+🎯 Mode FPS : clic gauche
 
-Navigation
-Utilisez les touches ZQSD pour vous déplacer dans l'exposition.
+🕹️ Avancer : S
 
-Bonne visite et profitez pleinement de l'expérience interactive !
+🎥 Regarder autour : souris
+
+## 💡 Fonctionnalités
+Collisions avec les murs
+
+Affichage de memes dans différentes salles
+
+Animation de personnages (Maxwell, oiia cat...)
+
+Plusieurs ambiances : Lookmaxxing, Brainrot, Jeux vidéo...
